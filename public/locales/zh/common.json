@@ -28,5 +28,12 @@
   "share": "分享",
   "sign-in": "登录",
   "sign-out": "登出",
-  "export": "导出"
+  "export": "导出",
+  "prompts-dashboard": "提示仪表盘",
+  "category": "类别",
+  "level": "级别",
+  "template": "模板",
+  "example": "示例",
+  "all-categories": "所有类别",
+  "all-levels": "所有级别"
 }

@@ -28,5 +28,12 @@
   "share": "Share",
   "sign-in": "Sign In",
   "sign-out": "Sign Out",
-  "export": "Export"
+  "export": "Export",
+  "prompts-dashboard": "Prompts Dashboard",
+  "category": "Category",
+  "level": "Level",
+  "template": "Template",
+  "example": "Example",
+  "all-categories": "All Categories",
+  "all-levels": "All Levels"
 }
