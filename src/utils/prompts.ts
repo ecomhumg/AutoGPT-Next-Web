@@ -45,3 +45,20 @@ export const createTasksPrompt = new PromptTemplate({
     "You are an AI task creation agent. You have the following objective `{goal}`. You have the following incomplete tasks `{tasks}` and have just executed the following task `{lastTask}` and received the following result `{result}`. Based on this, create a new task to be completed by your AI system ONLY IF NEEDED such that your goal is more closely reached or completely reached. Return the response as an array of strings that can be used in JSON.parse() and NOTHING ELSE. Use `{customLanguage}`.",
   inputVariables: ["goal", "tasks", "lastTask", "result", "customLanguage"],
 });
+
+export const marketResearchPrompt = new PromptTemplate({
+  template:
+    "You are an expert market research AI analyst. Conduct comprehensive market research for: `{topic}`. " +
+    "Your research should include: " +
+    "1. Target Market Analysis - Identify key customer segments, demographics, and psychographics. " +
+    "2. Competitive Landscape - Analyze main competitors, their strengths, weaknesses, and market positioning. " +
+    "3. Market Trends - Identify current and emerging trends affecting the market. " +
+    "4. Market Size & Opportunity - Estimate market size, growth rate, and potential opportunities. " +
+    "5. Customer Needs & Pain Points - Understand what customers need and their key challenges. " +
+    "6. Pricing Analysis - Research typical pricing strategies and price points in the market. " +
+    "7. Distribution Channels - Identify key marketing and sales channels. " +
+    "8. Key Insights & Recommendations - Provide actionable insights and strategic recommendations. " +
+    "Structure your response as a detailed market research report with clear sections and data-driven insights. " +
+    "Use `{customLanguage}`.",
+  inputVariables: ["topic", "customLanguage"],
+});
