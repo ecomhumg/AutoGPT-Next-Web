@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "category": "Technology",
+    "level": "Beginner",
+    "template": "Conduct in-depth research on Topic 1 within Technology domain.",
+    "example": "Example: Summarize key findings about Topic 1 in Technology."
+  },
+  {
+    "id": 2,
+    "category": "Science",
+    "level": "Intermediate",
+    "template": "Conduct in-depth research on Topic 2 within Science domain.",
+    "example": "Example: Summarize key findings about Topic 2 in Science."
+  },
+  {
+    "id": 3,
+    "category": "Market",
+    "level": "Advanced",
+    "template": "Conduct in-depth research on Topic 3 within Market domain.",
+    "example": "Example: Summarize key findings about Topic 3 in Market."
+  },
+  {
+    "id": 4,
+    "category": "Health",
+    "level": "Beginner",
+    "template": "Conduct in-depth research on Topic 4 within Health domain.",
+    "example": "Example: Summarize key findings about Topic 4 in Health."
+  },
+  {
+    "id": 5,
+    "category": "Education",
+    "level": "Intermediate",
+    "template": "Conduct in-depth research on Topic 5 within Education domain.",
+    "example": "Example: Summarize key findings about Topic 5 in Education."
+  },
+  {
+    "id": 6,
+    "category": "Environment",
+    "level": "Advanced",
+    "template": "Conduct in-depth research on Topic 6 within Environment domain.",
+    "example": "Example: Summarize key findings about Topic 6 in Environment."
+  },
+  {
+    "id": 7,
+    "category": "History",
+    "level": "Beginner",
+    "template": "Conduct in-depth research on Topic 7 within History domain.",
+    "example": "Example: Summarize key findings about Topic 7 in History."
+  },
+  {
+    "id": 8,
+    "category": "Economics",
+    "level": "Intermediate",
+    "template": "Conduct in-depth research on Topic 8 within Economics domain.",
+    "example": "Example: Summarize key findings about Topic 8 in Economics."
+  },
+  {
+    "id": 9,
+    "category": "Culture",
+    "level": "Advanced",
+    "template": "Conduct in-depth research on Topic 9 within Culture domain.",
+    "example": "Example: Summarize key findings about Topic 9 in Culture."
+  },
+  {
+    "id": 10,
+    "category": "Politics",
+    "level": "Beginner",
+    "template": "Conduct in-depth research on Topic 10 within Politics domain.",
+    "example": "Example: Summarize key findings about Topic 10 in Politics."
+  },
+  {
+    "id": 11,
+    "category": "Technology",
+    "level": "Intermediate",
+    "template": "Conduct in-depth research on Topic 11 within Technology domain.",
+    "example": "Example: Summarize key findings about Topic 11 in Technology."
+  },
+  {
+    "id": 12,
+    "category": "Science",
+    "level": "Advanced",
+    "template": "Conduct in-depth research on Topic 12 within Science domain.",
+    "example": "Example: Summarize key findings about Topic 12 in Science."
+  },
+  {
+    "id": 13,
+    "category": "Market",
+    "level": "Beginner",
+    "template": "Conduct in-depth research on Topic 13 within Market domain.",
+    "example": "Example: Summarize key findings about Topic 13 in Market."
+  },
+  {
+    "id": 14,
+    "category": "Health",
+    "level": "Intermediate",
+    "template": "Conduct in-depth research on Topic 14 within Health domain.",
+    "example": "Example: Summarize key findings about Topic 14 in Health."
+  },
+  {
+    "id": 15,
+    "category": "Education",
+    "level": "Advanced",
+    "template": "Conduct in-depth research on Topic 15 within Education domain.",
+    "example": "Example: Summarize key findings about Topic 15 in Education."
+  },
+  {
+    "id": 16,
+    "category": "Environment",
+    "level": "Beginner",
+    "template": "Conduct in-depth research on Topic 16 within Environment domain.",
+    "example": "Example: Summarize key findings about Topic 16 in Environment."
+  },
+  {
+    "id": 17,
+    "category": "History",
+    "level": "Intermediate",
+    "template": "Conduct in-depth research on Topic 17 within History domain.",
+    "example": "Example: Summarize key findings about Topic 17 in History."
+  },
+  {
+    "id": 18,
+    "category": "Economics",
+    "level": "Advanced",
+    "template": "Conduct in-depth research on Topic 18 within Economics domain.",
+    "example": "Example: Summarize key findings about Topic 18 in Economics."
+  },
+  {
+    "id": 19,
+    "category": "Culture",
+    "level": "Beginner",
+    "template": "Conduct in-depth research on Topic 19 within Culture domain.",
+    "example": "Example: Summarize key findings about Topic 19 in Culture."
+  },
+  {
+    "id": 20,
+    "category": "Politics",
+    "level": "Intermediate",
+    "template": "Conduct in-depth research on Topic 20 within Politics domain.",
+    "example": "Example: Summarize key findings about Topic 20 in Politics."
+  },
+  {
+    "id": 21,
+    "category": "Technology",
+    "level": "Advanced",
+    "template": "Conduct in-depth research on Topic 21 within Technology domain.",
+    "example": "Example: Summarize key findings about Topic 21 in Technology."
+  },
+  {
+    "id": 22,
+    "category": "Science",
+    "level": "Beginner",
+    "template": "Conduct in-depth research on Topic 22 within Science domain.",
+    "example": "Example: Summarize key findings about Topic 22 in Science."
+  },
+  {
+    "id": 23,
+    "category": "Market",
+    "level": "Intermediate",
+    "template": "Conduct in-depth research on Topic 23 within Market domain.",
+    "example": "Example: Summarize key findings about Topic 23 in Market."
+  },
+  {
+    "id": 24,
+    "category": "Health",
+    "level": "Advanced",
+    "template": "Conduct in-depth research on Topic 24 within Health domain.",
+    "example": "Example: Summarize key findings about Topic 24 in Health."
+  },
+  {
+    "id": 25,
+    "category": "Education",
+    "level": "Beginner",
+    "template": "Conduct in-depth research on Topic 25 within Education domain.",
+    "example": "Example: Summarize key findings about Topic 25 in Education."
+  },
+  {
+    "id": 26,
+    "category": "Environment",
+    "level": "Intermediate",
+    "template": "Conduct in-depth research on Topic 26 within Environment domain.",
+    "example": "Example: Summarize key findings about Topic 26 in Environment."
+  },
+  {
+    "id": 27,
+    "category": "History",
+    "level": "Advanced",
+    "template": "Conduct in-depth research on Topic 27 within History domain.",
+    "example": "Example: Summarize key findings about Topic 27 in History."
+  },
+  {
+    "id": 28,
+    "category": "Economics",
+    "level": "Beginner",
+    "template": "Conduct in-depth research on Topic 28 within Economics domain.",
+    "example": "Example: Summarize key findings about Topic 28 in Economics."
+  },
+  {
+    "id": 29,
+    "category": "Culture",
+    "level": "Intermediate",
+    "template": "Conduct in-depth research on Topic 29 within Culture domain.",
+    "example": "Example: Summarize key findings about Topic 29 in Culture."
+  },
+  {
+    "id": 30,
+    "category": "Politics",
+    "level": "Advanced",
+    "template": "Conduct in-depth research on Topic 30 within Politics domain.",
+    "example": "Example: Summarize key findings about Topic 30 in Politics."
+  },
+  {
+    "id": 31,
+    "category": "Technology",
+    "level": "Beginner",
+    "template": "Conduct in-depth research on Topic 31 within Technology domain.",
+    "example": "Example: Summarize key findings about Topic 31 in Technology."
+  },
+  {
+    "id": 32,
+    "category": "Science",
+    "level": "Intermediate",
+    "template": "Conduct in-depth research on Topic 32 within Science domain.",
+    "example": "Example: Summarize key findings about Topic 32 in Science."
+  },
+  {
+    "id": 33,
+    "category": "Market",
+    "level": "Advanced",
+    "template": "Conduct in-depth research on Topic 33 within Market domain.",
+    "example": "Example: Summarize key findings about Topic 33 in Market."
+  },
+  {
+    "id": 34,
+    "category": "Health",
+    "level": "Beginner",
+    "template": "Conduct in-depth research on Topic 34 within Health domain.",
+    "example": "Example: Summarize key findings about Topic 34 in Health."
+  },
+  {
+    "id": 35,
+    "category": "Education",
+    "level": "Intermediate",
+    "template": "Conduct in-depth research on Topic 35 within Education domain.",
+    "example": "Example: Summarize key findings about Topic 35 in Education."
+  },
+  {
+    "id": 36,
+    "category": "Environment",
+    "level": "Advanced",
+    "template": "Conduct in-depth research on Topic 36 within Environment domain.",
+    "example": "Example: Summarize key findings about Topic 36 in Environment."
+  },
+  {
+    "id": 37,
+    "category": "History",
+    "level": "Beginner",
+    "template": "Conduct in-depth research on Topic 37 within History domain.",
+    "example": "Example: Summarize key findings about Topic 37 in History."
+  },
+  {
+    "id": 38,
+    "category": "Economics",
+    "level": "Intermediate",
+    "template": "Conduct in-depth research on Topic 38 within Economics domain.",
+    "example": "Example: Summarize key findings about Topic 38 in Economics."
+  },
+  {
+    "id": 39,
+    "category": "Culture",
+    "level": "Advanced",
+    "template": "Conduct in-depth research on Topic 39 within Culture domain.",
+    "example": "Example: Summarize key findings about Topic 39 in Culture."
+  },
+  {
+    "id": 40,
+    "category": "Politics",
+    "level": "Beginner",
+    "template": "Conduct in-depth research on Topic 40 within Politics domain.",
+    "example": "Example: Summarize key findings about Topic 40 in Politics."
+  },
+  {
+    "id": 41,
+    "category": "Technology",
+    "level": "Intermediate",
+    "template": "Conduct in-depth research on Topic 41 within Technology domain.",
+    "example": "Example: Summarize key findings about Topic 41 in Technology."
+  },
+  {
+    "id": 42,
+    "category": "Science",
+    "level": "Advanced",
+    "template": "Conduct in-depth research on Topic 42 within Science domain.",
+    "example": "Example: Summarize key findings about Topic 42 in Science."
+  },
+  {
+    "id": 43,
+    "category": "Market",
+    "level": "Beginner",
+    "template": "Conduct in-depth research on Topic 43 within Market domain.",
+    "example": "Example: Summarize key findings about Topic 43 in Market."
+  },
+  {
+    "id": 44,
+    "category": "Health",
+    "level": "Intermediate",
+    "template": "Conduct in-depth research on Topic 44 within Health domain.",
+    "example": "Example: Summarize key findings about Topic 44 in Health."
+  },
+  {
+    "id": 45,
+    "category": "Education",
+    "level": "Advanced",
+    "template": "Conduct in-depth research on Topic 45 within Education domain.",
+    "example": "Example: Summarize key findings about Topic 45 in Education."
+  },
+  {
+    "id": 46,
+    "category": "Environment",
+    "level": "Beginner",
+    "template": "Conduct in-depth research on Topic 46 within Environment domain.",
+    "example": "Example: Summarize key findings about Topic 46 in Environment."
+  },
+  {
+    "id": 47,
+    "category": "History",
+    "level": "Intermediate",
+    "template": "Conduct in-depth research on Topic 47 within History domain.",
+    "example": "Example: Summarize key findings about Topic 47 in History."
+  },
+  {
+    "id": 48,
+    "category": "Economics",
+    "level": "Advanced",
+    "template": "Conduct in-depth research on Topic 48 within Economics domain.",
+    "example": "Example: Summarize key findings about Topic 48 in Economics."
+  },
+  {
+    "id": 49,
+    "category": "Culture",
+    "level": "Beginner",
+    "template": "Conduct in-depth research on Topic 49 within Culture domain.",
+    "example": "Example: Summarize key findings about Topic 49 in Culture."
+  },
+  {
+    "id": 50,
+    "category": "Politics",
+    "level": "Intermediate",
+    "template": "Conduct in-depth research on Topic 50 within Politics domain.",
+    "example": "Example: Summarize key findings about Topic 50 in Politics."
+  },
+  {
+    "id": 51,
+    "category": "Technology",
+    "level": "Advanced",
+    "template": "Conduct in-depth research on Topic 51 within Technology domain.",
+    "example": "Example: Summarize key findings about Topic 51 in Technology."
+  },
+  {
+    "id": 52,
+    "category": "Science",
+    "level": "Beginner",
+    "template": "Conduct in-depth research on Topic 52 within Science domain.",
+    "example": "Example: Summarize key findings about Topic 52 in Science."
+  },
+  {
+    "id": 53,
+    "category": "Market",
+    "level": "Intermediate",
+    "template": "Conduct in-depth research on Topic 53 within Market domain.",
+    "example": "Example: Summarize key findings about Topic 53 in Market."
+  },
+  {
+    "id": 54,
+    "category": "Health",
+    "level": "Advanced",
+    "template": "Conduct in-depth research on Topic 54 within Health domain.",
+    "example": "Example: Summarize key findings about Topic 54 in Health."
+  },
+  {
+    "id": 55,
+    "category": "Education",
+    "level": "Beginner",
+    "template": "Conduct in-depth research on Topic 55 within Education domain.",
+    "example": "Example: Summarize key findings about Topic 55 in Education."
+  },
+  {
+    "id": 56,
+    "category": "Environment",
+    "level": "Intermediate",
+    "template": "Conduct in-depth research on Topic 56 within Environment domain.",
+    "example": "Example: Summarize key findings about Topic 56 in Environment."
+  },
+  {
+    "id": 57,
+    "category": "History",
+    "level": "Advanced",
+    "template": "Conduct in-depth research on Topic 57 within History domain.",
+    "example": "Example: Summarize key findings about Topic 57 in History."
+  },
+  {
+    "id": 58,
+    "category": "Economics",
+    "level": "Beginner",
+    "template": "Conduct in-depth research on Topic 58 within Economics domain.",
+    "example": "Example: Summarize key findings about Topic 58 in Economics."
+  },
+  {
+    "id": 59,
+    "category": "Culture",
+    "level": "Intermediate",
+    "template": "Conduct in-depth research on Topic 59 within Culture domain.",
+    "example": "Example: Summarize key findings about Topic 59 in Culture."
+  },
+  {
+    "id": 60,
+    "category": "Politics",
+    "level": "Advanced",
+    "template": "Conduct in-depth research on Topic 60 within Politics domain.",
+    "example": "Example: Summarize key findings about Topic 60 in Politics."
+  },
+  {
+    "id": 61,
+    "category": "Technology",
+    "level": "Beginner",
+    "template": "Conduct in-depth research on Topic 61 within Technology domain.",
+    "example": "Example: Summarize key findings about Topic 61 in Technology."
+  },
+  {
+    "id": 62,
+    "category": "Science",
+    "level": "Intermediate",
+    "template": "Conduct in-depth research on Topic 62 within Science domain.",
+    "example": "Example: Summarize key findings about Topic 62 in Science."
+  },
+  {
+    "id": 63,
+    "category": "Market",
+    "level": "Advanced",
+    "template": "Conduct in-depth research on Topic 63 within Market domain.",
+    "example": "Example: Summarize key findings about Topic 63 in Market."
+  },
+  {
+    "id": 64,
+    "category": "Health",
+    "level": "Beginner",
+    "template": "Conduct in-depth research on Topic 64 within Health domain.",
+    "example": "Example: Summarize key findings about Topic 64 in Health."
+  },
+  {
+    "id": 65,
+    "category": "Education",
+    "level": "Intermediate",
+    "template": "Conduct in-depth research on Topic 65 within Education domain.",
+    "example": "Example: Summarize key findings about Topic 65 in Education."
+  },
+  {
+    "id": 66,
+    "category": "Environment",
+    "level": "Advanced",
+    "template": "Conduct in-depth research on Topic 66 within Environment domain.",
+    "example": "Example: Summarize key findings about Topic 66 in Environment."
+  },
+  {
+    "id": 67,
+    "category": "History",
+    "level": "Beginner",
+    "template": "Conduct in-depth research on Topic 67 within History domain.",
+    "example": "Example: Summarize key findings about Topic 67 in History."
+  },
+  {
+    "id": 68,
+    "category": "Economics",
+    "level": "Intermediate",
+    "template": "Conduct in-depth research on Topic 68 within Economics domain.",
+    "example": "Example: Summarize key findings about Topic 68 in Economics."
+  },
+  {
+    "id": 69,
+    "category": "Culture",
+    "level": "Advanced",
+    "template": "Conduct in-depth research on Topic 69 within Culture domain.",
+    "example": "Example: Summarize key findings about Topic 69 in Culture."
+  },
+  {
+    "id": 70,
+    "category": "Politics",
+    "level": "Beginner",
+    "template": "Conduct in-depth research on Topic 70 within Politics domain.",
+    "example": "Example: Summarize key findings about Topic 70 in Politics."
+  },
+  {
+    "id": 71,
+    "category": "Technology",
+    "level": "Intermediate",
+    "template": "Conduct in-depth research on Topic 71 within Technology domain.",
+    "example": "Example: Summarize key findings about Topic 71 in Technology."
+  },
+  {
+    "id": 72,
+    "category": "Science",
+    "level": "Advanced",
+    "template": "Conduct in-depth research on Topic 72 within Science domain.",
+    "example": "Example: Summarize key findings about Topic 72 in Science."
+  },
+  {
+    "id": 73,
+    "category": "Market",
+    "level": "Beginner",
+    "template": "Conduct in-depth research on Topic 73 within Market domain.",
+    "example": "Example: Summarize key findings about Topic 73 in Market."
+  },
+  {
+    "id": 74,
+    "category": "Health",
+    "level": "Intermediate",
+    "template": "Conduct in-depth research on Topic 74 within Health domain.",
+    "example": "Example: Summarize key findings about Topic 74 in Health."
+  },
+  {
+    "id": 75,
+    "category": "Education",
+    "level": "Advanced",
+    "template": "Conduct in-depth research on Topic 75 within Education domain.",
+    "example": "Example: Summarize key findings about Topic 75 in Education."
+  },
+  {
+    "id": 76,
+    "category": "Environment",
+    "level": "Beginner",
+    "template": "Conduct in-depth research on Topic 76 within Environment domain.",
+    "example": "Example: Summarize key findings about Topic 76 in Environment."
+  },
+  {
+    "id": 77,
+    "category": "History",
+    "level": "Intermediate",
+    "template": "Conduct in-depth research on Topic 77 within History domain.",
+    "example": "Example: Summarize key findings about Topic 77 in History."
+  },
+  {
+    "id": 78,
+    "category": "Economics",
+    "level": "Advanced",
+    "template": "Conduct in-depth research on Topic 78 within Economics domain.",
+    "example": "Example: Summarize key findings about Topic 78 in Economics."
+  },
+  {
+    "id": 79,
+    "category": "Culture",
+    "level": "Beginner",
+    "template": "Conduct in-depth research on Topic 79 within Culture domain.",
+    "example": "Example: Summarize key findings about Topic 79 in Culture."
+  },
+  {
+    "id": 80,
+    "category": "Politics",
+    "level": "Intermediate",
+    "template": "Conduct in-depth research on Topic 80 within Politics domain.",
+    "example": "Example: Summarize key findings about Topic 80 in Politics."
+  },
+  {
+    "id": 81,
+    "category": "Technology",
+    "level": "Advanced",
+    "template": "Conduct in-depth research on Topic 81 within Technology domain.",
+    "example": "Example: Summarize key findings about Topic 81 in Technology."
+  },
+  {
+    "id": 82,
+    "category": "Science",
+    "level": "Beginner",
+    "template": "Conduct in-depth research on Topic 82 within Science domain.",
+    "example": "Example: Summarize key findings about Topic 82 in Science."
+  },
+  {
+    "id": 83,
+    "category": "Market",
+    "level": "Intermediate",
+    "template": "Conduct in-depth research on Topic 83 within Market domain.",
+    "example": "Example: Summarize key findings about Topic 83 in Market."
+  },
+  {
+    "id": 84,
+    "category": "Health",
+    "level": "Advanced",
+    "template": "Conduct in-depth research on Topic 84 within Health domain.",
+    "example": "Example: Summarize key findings about Topic 84 in Health."
+  },
+  {
+    "id": 85,
+    "category": "Education",
+    "level": "Beginner",
+    "template": "Conduct in-depth research on Topic 85 within Education domain.",
+    "example": "Example: Summarize key findings about Topic 85 in Education."
+  },
+  {
+    "id": 86,
+    "category": "Environment",
+    "level": "Intermediate",
+    "template": "Conduct in-depth research on Topic 86 within Environment domain.",
+    "example": "Example: Summarize key findings about Topic 86 in Environment."
+  },
+  {
+    "id": 87,
+    "category": "History",
+    "level": "Advanced",
+    "template": "Conduct in-depth research on Topic 87 within History domain.",
+    "example": "Example: Summarize key findings about Topic 87 in History."
+  },
+  {
+    "id": 88,
+    "category": "Economics",
+    "level": "Beginner",
+    "template": "Conduct in-depth research on Topic 88 within Economics domain.",
+    "example": "Example: Summarize key findings about Topic 88 in Economics."
+  },
+  {
+    "id": 89,
+    "category": "Culture",
+    "level": "Intermediate",
+    "template": "Conduct in-depth research on Topic 89 within Culture domain.",
+    "example": "Example: Summarize key findings about Topic 89 in Culture."
+  },
+  {
+    "id": 90,
+    "category": "Politics",
+    "level": "Advanced",
+    "template": "Conduct in-depth research on Topic 90 within Politics domain.",
+    "example": "Example: Summarize key findings about Topic 90 in Politics."
+  },
+  {
+    "id": 91,
+    "category": "Technology",
+    "level": "Beginner",
+    "template": "Conduct in-depth research on Topic 91 within Technology domain.",
+    "example": "Example: Summarize key findings about Topic 91 in Technology."
+  },
+  {
+    "id": 92,
+    "category": "Science",
+    "level": "Intermediate",
+    "template": "Conduct in-depth research on Topic 92 within Science domain.",
+    "example": "Example: Summarize key findings about Topic 92 in Science."
+  },
+  {
+    "id": 93,
+    "category": "Market",
+    "level": "Advanced",
+    "template": "Conduct in-depth research on Topic 93 within Market domain.",
+    "example": "Example: Summarize key findings about Topic 93 in Market."
+  },
+  {
+    "id": 94,
+    "category": "Health",
+    "level": "Beginner",
+    "template": "Conduct in-depth research on Topic 94 within Health domain.",
+    "example": "Example: Summarize key findings about Topic 94 in Health."
+  },
+  {
+    "id": 95,
+    "category": "Education",
+    "level": "Intermediate",
+    "template": "Conduct in-depth research on Topic 95 within Education domain.",
+    "example": "Example: Summarize key findings about Topic 95 in Education."
+  },
+  {
+    "id": 96,
+    "category": "Environment",
+    "level": "Advanced",
+    "template": "Conduct in-depth research on Topic 96 within Environment domain.",
+    "example": "Example: Summarize key findings about Topic 96 in Environment."
+  },
+  {
+    "id": 97,
+    "category": "History",
+    "level": "Beginner",
+    "template": "Conduct in-depth research on Topic 97 within History domain.",
+    "example": "Example: Summarize key findings about Topic 97 in History."
+  },
+  {
+    "id": 98,
+    "category": "Economics",
+    "level": "Intermediate",
+    "template": "Conduct in-depth research on Topic 98 within Economics domain.",
+    "example": "Example: Summarize key findings about Topic 98 in Economics."
+  },
+  {
+    "id": 99,
+    "category": "Culture",
+    "level": "Advanced",
+    "template": "Conduct in-depth research on Topic 99 within Culture domain.",
+    "example": "Example: Summarize key findings about Topic 99 in Culture."
+  },
+  {
+    "id": 100,
+    "category": "Politics",
+    "level": "Beginner",
+    "template": "Conduct in-depth research on Topic 100 within Politics domain.",
+    "example": "Example: Summarize key findings about Topic 100 in Politics."
+  }
+]
